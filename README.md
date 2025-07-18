@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projet Buudu
 
 Site web avec HTML, CSS et JavaScript
@@ -36,3 +37,6 @@ Votre projet sera maintenant disponible sur GitHub à l'adresse:
 - HTML5
 - CSS3
 - JavaScript
+=======
+# buudu
+>>>>>>> 5e6140d2b9a4575fb7282fcf72f84ab95a622c9c
